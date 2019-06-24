@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/css/main.39f1f302.chunk.css",
+    "main.js": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/js/main.c99b6bba.chunk.js",
+    "main.js.map": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/js/main.c99b6bba.chunk.js.map",
+    "runtime~main.js": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/js/runtime~main.d3f0769b.js",
+    "runtime~main.js.map": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/js/runtime~main.d3f0769b.js.map",
+    "static/js/2.086c7872.chunk.js": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/js/2.086c7872.chunk.js",
+    "static/js/2.086c7872.chunk.js.map": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/js/2.086c7872.chunk.js.map",
+    "index.html": "/BotFramework-WebChat/12.customization-minimizable-web-chat/index.html",
+    "precache-manifest.05da16d65118473d80597f39026ca83a.js": "/BotFramework-WebChat/12.customization-minimizable-web-chat/precache-manifest.05da16d65118473d80597f39026ca83a.js",
+    "service-worker.js": "/BotFramework-WebChat/12.customization-minimizable-web-chat/service-worker.js",
+    "static/css/main.39f1f302.chunk.css.map": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/css/main.39f1f302.chunk.css.map",
+    "static/media/WebPage.jpg": "/BotFramework-WebChat/12.customization-minimizable-web-chat/static/media/WebPage.d6d7485a.jpg"
+  }
+}
