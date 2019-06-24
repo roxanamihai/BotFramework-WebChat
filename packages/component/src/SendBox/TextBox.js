@@ -54,7 +54,7 @@ const connectSendTextBox = (...selectors) =>
   );
 
 const TextBox = ({ className, disabled, language, onChange, onKeyPress, onSubmit, styleSet, value }) => {
-  const typeYourMessageString = localize('Type your message', language);
+  const typeYourMessageString = localize('Type your question', language);
   const {
     options: { sendBoxTextWrap }
   } = styleSet;
